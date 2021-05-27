@@ -1,4 +1,5 @@
-const nome = 'Matheus' //não posso quebrar a linha em strings, mas com template strings...
+const nome = 'Matheus' 
+// não posso quebrar a linha em strings, mas com template strings as quebras de linha são consideradas.
 
 const template = `
     Olá ${nome} !

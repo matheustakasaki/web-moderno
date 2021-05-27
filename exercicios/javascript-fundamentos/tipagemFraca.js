@@ -8,7 +8,8 @@ qualquer = 3.45; //Reatribuição de variável que altera seu tipo
 console.log(qualquer);
 console.log(typeof qualquer);
 
-// Evitar nomes de variáveis muito genéricos e siglas
+// Evitar nomes de variáveis muito genéricos e siglas 
+// A escolha de bons nomes é fundamental!
 let valor = ''; //Nome genérico
 let numero = 1;
 let pqp = false //Produto Quimico Perigoso.. kkk
@@ -18,4 +19,4 @@ let numero2 = 3;
 
 let soma = numero1 + numero2;
 
-console.log(soma);
+console.log(typeof pqp);

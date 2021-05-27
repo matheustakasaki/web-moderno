@@ -1,4 +1,5 @@
-console.log(7/0000000); // infinity - qualquer numero dividido por zero resulta em infinito
+console.log(7/0000000); 
+// infinity - qualquer numero dividido por zero resulta em infinito
 
 console.log("10" / 5); // Converte a string em número
 
