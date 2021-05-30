@@ -3,6 +3,7 @@
     // Um objeto em Javascript não é um json, é uma coleção chave/valor
 
     const produto = {}
+    console.log(produto);
     produto.nome = "Celular ultramega" // atributo adicinado dinamicamente
     produto.preco = 300.50 // atributo adicinado dinamicamente
     produto.descontoLegal = 0.4  // evitar atributos com espaço
