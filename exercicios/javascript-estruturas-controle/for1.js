@@ -1,5 +1,6 @@
 let contador = 1;
 
+// Estrutura de controle com while
 while (contador <= 10) {
     console.log(`contador: ${contador}`);
     contador++
