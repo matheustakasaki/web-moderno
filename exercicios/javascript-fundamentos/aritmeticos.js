@@ -1,5 +1,5 @@
 const [a, b, c, d ] = [3, 5 ,1 , 15]
-
+// Todas as operações matemáticas básicas estão presentes no javascript
 const soma =  a + b + c + d;
 const subtracao = d - b; 
 const multiplicacao = a * b ;
