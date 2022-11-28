@@ -1,3 +1,4 @@
+// Função factory que cria produtos com atributos
 function criarProduto(nome, preco, desconto = 0.1) {
 	return {
 		nome,
