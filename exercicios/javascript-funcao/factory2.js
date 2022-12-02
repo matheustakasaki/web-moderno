@@ -3,9 +3,16 @@
 
 
 /*
-// Devido a um recurso do js, não é preciso realizar a notação ponto no retorno da função
 
+	Devido a um recurso do js, não é preciso realizar a notação ponto no retorno da função
 
+	Exemplo
+		return {
+				nome:nome,
+			}
+		}
+
+	Isso porque nos o attributo nome já é recebido nos parâmetros da função e possui a mesma nomenclatura.
 */
 function criarProduto(nome, preco, desconto = 0.1) {
 	return {
