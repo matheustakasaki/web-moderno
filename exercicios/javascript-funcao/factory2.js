@@ -12,9 +12,9 @@
 			}
 		}
 
-	Isso porque nos o attributo nome já é recebido nos parâmetros da função e possui a mesma nomenclatura.
+	Isso porque o atributo nome já é recebido nos parâmetros da função e possui a mesma nomenclatura.
 */
-function criarProduto(nome, preco, desconto = 0.1) {
+function criarProduto({ nome, preco, desconto = 0.1 }) {
 	return {
 		nome,
 		preco,
@@ -22,5 +22,5 @@ function criarProduto(nome, preco, desconto = 0.1) {
 	}
 }
 
-console.log(criarProduto('Notebook', 2199.49))
-console.log(criarProduto('Ipad', 1199.49))
+console.log(criarProduto({ nome: 'Notebook', preco: 2199.49 }))
+console.log(criarProduto({ nome: 'Ipad', preco: 1199.49 }))
