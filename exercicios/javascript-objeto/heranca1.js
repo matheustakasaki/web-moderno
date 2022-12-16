@@ -11,3 +11,7 @@ const volvo = {
 console.log(ferrari.__proto__);
 console.log(ferrari.__proto__ === Object.prototype);
 console.log(Object.prototype.__proto__);
+
+
+function MeuObjeto() { }
+console.log();
