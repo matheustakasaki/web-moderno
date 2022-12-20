@@ -4,3 +4,4 @@
 -   Módulo HTML
 -   Módulo CSS
 -   Módulo Nodejs
+-   Módulo Bootstrap e JQuery
