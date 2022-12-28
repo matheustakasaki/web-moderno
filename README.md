@@ -6,5 +6,5 @@
 -   Módulo Nodejs
 -   Módulo Bootstrap e JQuery
 -   Módulo Banco de Dados e Express
--   Módulo React
+-   Módulo React.js
 sad
