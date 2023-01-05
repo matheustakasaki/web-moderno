@@ -6,4 +6,4 @@
 -   Módulo Nodejs
 -   Módulo Bootstrap e JQuery
 -   Módulo Banco de Dados e Express (Backend)
--   Módulo React.js (Front-end)
+-   Módulo React.js (Front-End)
