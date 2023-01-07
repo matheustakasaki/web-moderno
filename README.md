@@ -2,7 +2,7 @@
 
 -   Módulo Javascript 🦾
 -   Módulo HTML
--   Módulo CSS
+-   Módulo CSS ✨
 -   Módulo Nodejs
 -   Módulo Bootstrap e JQuery
 -   Módulo Banco de Dados e Express (Back-end)
