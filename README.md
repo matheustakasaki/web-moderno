@@ -1,4 +1,4 @@
-# Curso Web Moderno
+# Curso Web Moderno - Cod3r
 
 -   Módulo Javascript 🦾
 -   Módulo HTML 💀
