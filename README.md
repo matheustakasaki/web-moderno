@@ -1,4 +1,4 @@
-# Curso Desenvolvimento Web Moderno - Cod3r
+# Curso Desenvolvimento Web - Cod3r
 
 Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Next, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, e MySQL.
 
