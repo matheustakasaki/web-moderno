@@ -8,5 +8,5 @@ Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Next, 
 -   Módulo Nodejs 🕶
 -   Módulo Bootstrap e JQuery 🎈
 -   Módulo Banco de Dados e Express 🎭 (Back-end)
--   Módulo React.js 🎨 (Front-End)
+-   Módulo React.js 🎨 (Front-End Framework)
 
