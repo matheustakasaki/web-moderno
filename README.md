@@ -13,3 +13,4 @@ Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Next, 
 
 @matheustakasaki
 [Instagram](instagram.com/o_taaka)
+[Linkedin](https://www.linkedin.com/in/matheus-takasaki-antunes/)
