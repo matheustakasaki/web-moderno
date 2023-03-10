@@ -2,7 +2,8 @@
 
 Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Next, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, e MySQL.
 
-✔   Módulo Javascript 🦾
+✔ Módulo Javascript 🦾
+
 -   Módulo HTML 💀
 -   Módulo CSS ✨
 -   Módulo Nodejs 🕶 🔋
@@ -11,3 +12,4 @@ Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Next, 
 -   Módulo React.js 🎨 (Front-End Framework)
 
 @matheustakasaki
+[Instagram](instagram.com/o_taaka)
