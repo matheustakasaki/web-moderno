@@ -7,6 +7,6 @@ Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Next, 
 -   Módulo CSS3 ✨
 -   Módulo Nodejs 🕶
 -   Módulo Bootstrap e JQuery 🎈
--   Módulo Banco de Dados e Express 🎭 (Back-end Framework)
+-   Módulo Banco de Dados e Express 🎭 (back-end Framework)
 -   Módulo Reactjs 🎨 (front-end Framework)
 [LinkedIn](https://www.linkedin.com/in/matheus-takasaki-antunes/)
