@@ -6,6 +6,6 @@ function falarDepoisDe(segundos, frase) {
 	});
 }
 
-falarDepoisDe(3, 'Que Legal')
-.then(frase =>frase.concat('?1?'))
+falarDepoisDe(.5, 'Que Legal')
+.then(frase =>frase.concat('??'))
 .then(outraFrase => console.log(outraFrase))
