@@ -1,4 +1,4 @@
-function gerarNumeros(min, max) {
+function gerarNumerosEntre(min, max) {
 	if (min > max) {
 		[max, min] = [min, max]; // Destructuring = Definição de array
 	}
@@ -10,7 +10,7 @@ function gerarNumeros(min, max) {
 	});
 }
 
-gerarNumeros(1, 60)
+gerarNumerosEntre(1, 60)
 	.then((num) => num * 10)
 	.then((numX10) => `O número gerado foi ${numX10}`)
 	.then(console.log);
