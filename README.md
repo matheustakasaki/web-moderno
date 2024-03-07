@@ -1,5 +1,6 @@
 # Desenvolvimento Web Fullstack Moderno - Cod3r Cursos
 @matheustakasaki
+@o_taaka
 
 Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Nextjs, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, e MySQL.
 
