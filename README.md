@@ -4,7 +4,7 @@
 
 Desenvolvimento Web com 15 Cursos + Projetos: Javascript, Angular, React, Nextjs, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, e MySQL.
 
--   Módulo Javascript (ES2016)
+-   Módulo Javascript (ES2016 >)
 -   Módulo HTML5
 -   Módulo CSS3
 -   Módulo Nodejs
