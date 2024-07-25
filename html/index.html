@@ -40,7 +40,10 @@
 
 			link.onclick = function (e) {
 				e.preventDefault();
-				console.log(link)
+				const conteudo = document.getElementById('conteudo')
+				fetch(link.href)
+					.then(resp => resp.text())
+					.then(html => conteudo.innerHTML = html)
 			}
 		})
 	</script>
