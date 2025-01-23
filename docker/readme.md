@@ -1,2 +1,2 @@
 Here we will have information about how
-to learn and use docker
+to learn and use docker and its features
