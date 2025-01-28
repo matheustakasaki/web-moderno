@@ -1,1 +1,1 @@
-Pasta dedicada ao estudo do Next.js
+Pasta dedicada exclusivamente ao estudo do Next.js
